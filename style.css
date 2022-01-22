@@ -172,9 +172,11 @@ main header .container {
 }
 
 .contactinfo {
-    font-size: 180%;
+    font-size: 160%;
     font-style: italic;
     font-weight: bold;
+    display: flex;
+    text-align: justify;
 }
 
     .contactinfo a:hover {
