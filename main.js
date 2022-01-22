@@ -25,7 +25,7 @@ contactmousemouve = function (i) {
     else if (i == 2)
         tt = 'bahman.soltani@gmail.com';
     else if (i == 3)
-        tt = 'https://www.linkedin.com/in/vohuman/';
+        tt = 'linkedin.com/in/vohuman';
     
     var html = tt,
         txt = e.text(),
