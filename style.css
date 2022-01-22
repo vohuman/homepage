@@ -189,6 +189,7 @@ main header .container {
     text-align: justify;
     line-height: 160%;
     margin:0px;
+    padding-left:0px;
 }
 
     .about .btn {
