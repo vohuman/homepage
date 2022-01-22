@@ -55,6 +55,7 @@ header {
         margin-left: 6%;
         z-index: 1;
         text-transform: uppercase;
+        padding-bottom:17px;
     }
 
         header .homepage:hover {
