@@ -175,7 +175,7 @@ main header .container {
     font-size: 160%;
     font-style: italic;
     font-weight: bold;
-    display: flex;
+    display: block;
     text-align: justify;
 }
 
