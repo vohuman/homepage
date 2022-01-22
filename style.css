@@ -392,6 +392,7 @@ footer {
 
 .navoverlay a {
     padding: 8px;
+    margin:0;
     text-decoration: none;
     color: #fff;
     display: block;
