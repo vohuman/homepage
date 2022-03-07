@@ -378,10 +378,10 @@ footer {
 
 .navoverlay-content {
     position: relative;
-    top: 25%;
+    top: 15%;
     width: 100%;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
     text-transform: capitalize;
 }
 
