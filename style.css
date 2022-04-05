@@ -17,12 +17,12 @@ a {
 
 main {
     height: 100%;
-    transition: 0.5s;
-    -webkit-animation: zoomout 1s;
-    -moz-animation: zoomout 1s;
-    -ms-animation: zoomout 1s;
-    -o-animation: zoomout 1s;
-    animation: zoomout 1s;
+    transition: 1s;
+    -webkit-animation: zoomout 2s;
+    -moz-animation: zoomout 2s;
+    -ms-animation: zoomout 2s;
+    -o-animation: zoomout 2s;
+    animation: zoomout 2s;
     top: 0px;
     position: fixed;
     width: 100%;
