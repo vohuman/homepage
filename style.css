@@ -210,13 +210,13 @@ main header .container {
     }
 
 img.about {
-    width: 350px;
+    width: 300px;
     height: auto;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid #999;
     border-radius: 10px;
     background-color: #fff;
-    margin: 1px;
+    margin: 0px;
 }
 
 .sample1 {
